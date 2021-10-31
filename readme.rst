@@ -1,4 +1,4 @@
-HBMQTT
+HBMQTT--本存档为对HBMQTT项目的学习和优化。
 ======
 
 ``HBMQTT`` is an open source `MQTT`_ client and broker implementation.
